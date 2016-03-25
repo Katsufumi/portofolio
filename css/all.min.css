@@ -27,11 +27,11 @@
 .nav-item a,.post-title, .content h2{
   font-family:'Roboto',sans-serif;
   font-weight:400;
-  font-size: 1em;
+  font-size: 0.9em;
 }
 .content h3{
   font-size: 0.9em;
-  font-weight:300;
+  font-weight:400;
 }
 a{text-decoration:none;color:#000000;position:relative;}.brand-title a,.sidebar{color:#000}
 .brand-title a:hover,.post-share-links a:hover,.post-title:hover{
