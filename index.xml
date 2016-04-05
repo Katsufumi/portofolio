@@ -28,7 +28,7 @@
 &lt;p&gt;&lt;em&gt;Boundary Synthesizer&lt;/em&gt; is an interactive audiovisual system that translates familiar moving images such as cityscapes and fireworks into impressive sound. A horizontal “boundary” line is extracted from the outline in each video frame and directly transformed into a sound waveform. Users can interact with Boundary Synthesizer by changing the video contents, controlling the frequency and manipulating the image data using image effects such as wave, mirror and mosaic. Thus, this system is an audiovisual synthesizer in which the oscillator’s waveform is structured by the visual boundary. This waveform is changed in time by videos, and unexpected sound artifacts are continuously generated automatically. Therefore users can explore the intuitive and expressive connections of image and sound by operating the physical controller.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Boundary Synthesizer&lt;/em&gt;&lt;br /&gt;
-2015
+2015&lt;br /&gt;
 Venues&amp;nbsp;The University of Tokyo, Tokyo, Japan
 Materials&amp;nbsp;Mac book mini, Projector, Controller, Arduino, Web camera, Speaker etc.&lt;br /&gt;
 Size&amp;nbsp;Dimension variable&lt;br /&gt;
