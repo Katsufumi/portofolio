@@ -6,8 +6,36 @@
     <description>Recent content in Works on Katsufumi Matsui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Apr 2016 00:47:19 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 06 Apr 2016 02:11:44 +0900</lastBuildDate>
     <atom:link href="http://katsufumi.ws/works/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Boundary Synthesizer</title>
+      <link>http://katsufumi.ws/works/boundary/</link>
+      <pubDate>Wed, 06 Apr 2016 02:11:44 +0900</pubDate>
+      
+      <guid>http://katsufumi.ws/works/boundary/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://katsufumi.ws/bs1.jpg&#34; alt=&#34;profile&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://katsufumi.ws/bs2.jpg&#34; alt=&#34;profile&#34; /&gt;&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/138683508&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;&lt;em&gt;Boundary Synthesizer&lt;/em&gt; is an interactive audiovisual system that translates familiar moving images such as cityscapes and fireworks into impressive sound. A horizontal “boundary” line is extracted from the outline in each video frame and directly transformed into a sound waveform. Users can interact with Boundary Synthesizer by changing the video contents, controlling the frequency and manipulating the image data using image effects such as wave, mirror and mosaic. Thus, this system is an audiovisual synthesizer in which the oscillator’s waveform is structured by the visual boundary. This waveform is changed in time by videos, and unexpected sound artifacts are continuously generated automatically. Therefore users can explore the intuitive and expressive connections of image and sound by operating the physical controller.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Boundary Synthesizer&lt;/em&gt;&lt;br /&gt;
+2015
+Venues&amp;nbsp;The University of Tokyo, Tokyo, Japan
+Materials&amp;nbsp;Mac book mini, Projector, Controller, Arduino, Web camera, Speaker etc.&lt;br /&gt;
+Size&amp;nbsp;Dimension variable&lt;br /&gt;
+Form&amp;nbsp;Installation/Performance&lt;br /&gt;
+Technical cooperation&amp;nbsp;Tatsuya Ogusu, Seico Okamoto&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The 360° Skyline Song Project</title>
@@ -40,11 +68,11 @@ surroundings and showing the captured movie.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;The 360° Skyline Song Project&lt;/em&gt;&lt;br /&gt;
 2015&lt;br /&gt;
-Venues&amp;nbsp;&amp;nbsp;&amp;nbsp; Museum of Vancouver, Vancouver, Canada&lt;br /&gt;
-Materials&amp;nbsp;&amp;nbsp;&amp;nbsp;  Mac book Pro, Projector, Mbed, Web camera, Motor etc.&lt;br /&gt;
-Size&amp;nbsp;&amp;nbsp;&amp;nbsp; Dimension variable&lt;br /&gt;
-Form&amp;nbsp;&amp;nbsp;&amp;nbsp; Installation&lt;br /&gt;
-Technical cooperation&amp;nbsp;&amp;nbsp;&amp;nbsp; Kazunori Ogasawara&lt;/p&gt;
+Venues&amp;nbsp;Museum of Vancouver, Vancouver, Canada&lt;br /&gt;
+Materials&amp;nbsp;Mac book Pro, Projector, Mbed, Web camera, Motor etc.&lt;br /&gt;
+Size&amp;nbsp;Dimension variable&lt;br /&gt;
+Form&amp;nbsp;Installation&lt;br /&gt;
+Technical cooperation&amp;nbsp;Kazunori Ogasawara&lt;/p&gt;
 </description>
     </item>
     
