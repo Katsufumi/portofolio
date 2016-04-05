@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on Katsufumi Matsui</title>
+    <link>http://katsufumi.ws/works/</link>
+    <description>Recent content in Works on Katsufumi Matsui</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Apr 2016 00:47:19 +0900</lastBuildDate>
+    <atom:link href="http://katsufumi.ws/works/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>sky</title>
+      <link>http://katsufumi.ws/works/sky/</link>
+      <pubDate>Wed, 06 Apr 2016 00:47:19 +0900</pubDate>
+      
+      <guid>http://katsufumi.ws/works/sky/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The 360° Skyline Song Project&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://katsufumi.ws/sky1.jpg&#34; alt=&#34;profile&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://katsufumi.ws/sky2.jpg&#34; alt=&#34;profile&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://katsufumi.ws/sky3.jpg&#34; alt=&#34;profile&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
