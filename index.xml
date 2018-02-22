@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Katsufumi Matsui</title>
-    <link>http://katsufumi.ws/</link>
+    <link>http://katsufumi.ws/index.xml</link>
     <description>Recent content on Katsufumi Matsui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>

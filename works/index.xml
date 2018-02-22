@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Works on Katsufumi Matsui</title>
-    <link>http://katsufumi.ws/works/</link>
-    <description>Recent content in Works on Katsufumi Matsui</description>
+    <title>Works-rsses on Katsufumi Matsui</title>
+    <link>http://katsufumi.ws/works/index.xml</link>
+    <description>Recent content in Works-rsses on Katsufumi Matsui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Apr 2016 02:11:44 +0900</lastBuildDate>
