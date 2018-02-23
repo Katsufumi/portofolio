@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Katsufumi Matsui</title>
-    <link>http://katsufumi.ws/</link>
+    <link>http://katsufumi.info/</link>
     <description>Recent content on Katsufumi Matsui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Apr 2016 02:11:44 +0900</lastBuildDate>
     
-	<atom:link href="http://katsufumi.ws/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://katsufumi.info/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Boundary Synthesizer II</title>
-      <link>http://katsufumi.ws/works/boundary/</link>
+      <link>http://katsufumi.info/works/boundary/</link>
       <pubDate>Wed, 06 Apr 2016 02:11:44 +0900</pubDate>
       
-      <guid>http://katsufumi.ws/works/boundary/</guid>
+      <guid>http://katsufumi.info/works/boundary/</guid>
       <description>Boundary Synthesizer II is an interactive audiovisual system that translates familiar moving images such as cityscapes and fireworks into impressive sound. A horizontal “boundary” line is extracted from the outline in each video frame and directly transformed into a sound waveform. Users can interact with Boundary Synthesizer by changing the video contents, controlling the frequency and manipulating the image data using image effects such as wave, mirror and mosaic.</description>
     </item>
     
     <item>
       <title>The 360° Skyline Song Project</title>
-      <link>http://katsufumi.ws/works/sky/</link>
+      <link>http://katsufumi.info/works/sky/</link>
       <pubDate>Wed, 06 Apr 2016 00:47:19 +0900</pubDate>
       
-      <guid>http://katsufumi.ws/works/sky/</guid>
+      <guid>http://katsufumi.info/works/sky/</guid>
       <description>The 360° Skyline Song Project is an audio-visual installation work that makes sound waves from the visual &amp;ldquo;boundary&amp;rdquo; between surrounding scenery and sky. The visual data, made by recording the surrounding scenery with a video camera rotating an angle of 360 degrees, are transformed into sound waves in real time by analyzing each camera frame. Both audio and visual data achieve the intuitive recognition of the transition of the boundary in sceneries.</description>
     </item>
     
     <item>
       <title>bio</title>
-      <link>http://katsufumi.ws/bio/</link>
+      <link>http://katsufumi.info/bio/</link>
       <pubDate>Sat, 26 Mar 2016 01:11:24 +0900</pubDate>
       
-      <guid>http://katsufumi.ws/bio/</guid>
+      <guid>http://katsufumi.info/bio/</guid>
       <description>Katsufumi Matsui
 Katsufumi Matsui is a Ph.D. student at The University of Tokyo Graduate School of Interdisciplinary Information Studies. He was born in 1985 in Yamagata. His works are focused in the areas of sound installation, audiovisual performances, image sonification and new interface for musical expression. His works have been selected for participation in international conferences, such as the ISEA, NIME, ICMC. He has received various awards, such as 2014 Asia Digital Art Award Finalist Prizes, 20th Campus Genius Award BRONZE, the Digital Signage Award 2014 Special Prize and the Good Design Award 2011 in Japan.</description>
     </item>
     
     <item>
       <title>contact</title>
-      <link>http://katsufumi.ws/contact/</link>
+      <link>http://katsufumi.info/contact/</link>
       <pubDate>Fri, 01 Jan 2016 01:16:13 +0900</pubDate>
       
-      <guid>http://katsufumi.ws/contact/</guid>
+      <guid>http://katsufumi.info/contact/</guid>
       <description>&amp;#107;&amp;#97;&amp;#116;&amp;#115;&amp;#117;&amp;#102;&amp;#117;&amp;#109;&amp;#105;&amp;#46;&amp;#109;&amp;#97;&amp;#116;&amp;#115;&amp;#117;&amp;#105;&amp;#40;&amp;#97;&amp;#116;&amp;#41;&amp;#103;&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#46;&amp;#99;&amp;#111;&amp;#109;
 Instagram
 Facebook
